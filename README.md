@@ -1,10 +1,8 @@
-# DiscussionBridge Sandbox Chooser
+# DiscussionBridge Sandbox
 
-The [sandbox chooser](https://sandbox.discussionbridge.dev/) is the noindex
-entry point for DiscussionBridge installation and configuration testing.
-It links the isolated platform sandboxes and their receiving Discourse forum.
+Use the [sandbox chooser](https://sandbox.discussionbridge.dev/) to find the test sites and their
+Discourse forum. These environments are for trying setup, publishing, and
+discussion changes before applying them to a public site.
 
-Use the [V4 Alpha source tags](https://github.com/DiscussionBridge) to find the
-component you are testing. Record the exact package and version installed in
-each environment. The [public demo chooser](https://demo.discussionbridge.dev/)
-lists the demonstration sites.
+To see the public examples, visit the [demo chooser](https://demo.discussionbridge.dev/). For source
+tags and deployment records, see [Versions and Live Status](https://docs.discussionbridge.dev/versions-and-live-status/).
